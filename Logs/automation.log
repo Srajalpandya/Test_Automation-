@@ -1,0 +1,40 @@
+03/12/2024 12:46:12 PM: INFO: **************************Test_001_Login**********************
+03/12/2024 12:46:12 PM: INFO: **************************Verifying Home Page Title**********************
+03/12/2024 12:46:14 PM: INFO: **************************Passed**********************
+03/12/2024 12:54:37 PM: INFO: **************************Test_001_Login**********************
+03/12/2024 12:54:37 PM: INFO: **************************Verifying Home Page Title**********************
+03/12/2024 12:54:40 PM: INFO: **************************Passed**********************
+03/12/2024 05:09:57 PM: INFO: **************************Test_001_Login**********************
+03/12/2024 05:09:57 PM: INFO: **************************Verifying Home Page Title**********************
+03/12/2024 05:10:02 PM: INFO: **************************Passed**********************
+03/13/2024 10:36:09 AM: INFO: ====== WebDriver manager ======
+03/13/2024 10:36:11 AM: INFO: Get LATEST chromedriver version for google-chrome
+03/13/2024 10:36:12 AM: INFO: Get LATEST chromedriver version for google-chrome
+03/13/2024 10:36:13 AM: INFO: There is no [win64] chromedriver "122.0.6261.128" for browser google-chrome "122.0.6261" in cache
+03/13/2024 10:36:13 AM: INFO: Get LATEST chromedriver version for google-chrome
+03/13/2024 10:36:14 AM: INFO: WebDriver version 122.0.6261.128 selected
+03/13/2024 10:36:14 AM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+03/13/2024 10:36:14 AM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+03/13/2024 10:36:15 AM: INFO: Driver downloading response is 200
+03/13/2024 10:36:16 AM: INFO: Get LATEST chromedriver version for google-chrome
+03/13/2024 10:36:17 AM: INFO: Driver has been saved in cache [C:\Users\prakhar\.wdm\drivers\chromedriver\win64\122.0.6261.128]
+03/13/2024 10:36:20 AM: INFO: ====== WebDriver manager ======
+03/13/2024 10:36:22 AM: INFO: Get LATEST chromedriver version for google-chrome
+03/13/2024 10:36:22 AM: INFO: Get LATEST chromedriver version for google-chrome
+03/13/2024 10:36:23 AM: INFO: Driver [C:\Users\prakhar\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+03/13/2024 10:37:03 AM: INFO: ====== WebDriver manager ======
+03/13/2024 10:37:11 AM: INFO: Get LATEST geckodriver version for 123.0 firefox
+03/13/2024 10:37:12 AM: INFO: Get LATEST geckodriver version for 123.0 firefox
+03/13/2024 10:37:12 AM: INFO: There is no [win64] geckodriver "v0.34.0" for browser firefox "123.0" in cache
+03/13/2024 10:37:12 AM: INFO: Get LATEST geckodriver version for 123.0 firefox
+03/13/2024 10:37:13 AM: INFO: Getting latest mozilla release info for v0.34.0
+03/13/2024 10:37:14 AM: INFO: About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.34.0/geckodriver-v0.34.0-win64.zip
+03/13/2024 10:37:18 AM: INFO: Driver downloading response is 200
+03/13/2024 10:37:18 AM: INFO: Get LATEST geckodriver version for 123.0 firefox
+03/13/2024 10:37:19 AM: INFO: Driver has been saved in cache [C:\Users\prakhar\.wdm\drivers\geckodriver\win64\v0.34.0]
+03/13/2024 10:37:28 AM: INFO: **********************************Testing homepage title***********************************
+03/13/2024 10:37:32 AM: INFO: ====== WebDriver manager ======
+03/13/2024 10:37:36 AM: INFO: Get LATEST geckodriver version for 123.0 firefox
+03/13/2024 10:37:37 AM: INFO: Get LATEST geckodriver version for 123.0 firefox
+03/13/2024 10:37:38 AM: INFO: Driver [C:\Users\prakhar\.wdm\drivers\geckodriver\win64\v0.34.0\geckodriver.exe] found in cache
+03/13/2024 10:37:45 AM: INFO: **********************************Testing test_login Page***********************************
